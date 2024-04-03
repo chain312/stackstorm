@@ -1,0 +1,4 @@
+[stevedore.formatter]
+plain = plugins.simple:Simple
+simple = plugins.simple:Simple
+
